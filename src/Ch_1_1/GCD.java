@@ -1,4 +1,4 @@
-package Ch_1_1;//求最大公因数
+package Ch_1_1;
 import java.util.Scanner;
 
 public class GCD {
