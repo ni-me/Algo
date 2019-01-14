@@ -1,12 +1,12 @@
 # IDEA 配置《算法 第四版》环境
 
-##下载文件
+## 下载文件
 首先，我们需要从[本书网站](https://algs4.cs.princeton.edu/home/)下载两个文件：
 - 运行库：[algs4.jar](https://algs4.cs.princeton.edu/code/algs4.jar)
 - 数据：[algs4-data.zip](https://algs4.cs.princeton.edu/code/algs4-data.zip)
 
 ## 运行库的配置
-###设置环境变量
+### 设置环境变量
 把``algs4.jar``放到任意一个目录中，比如``D:\Code\jar``，然后打开``控制面板->系统和安全->系统
 ->高级系统设置->环境变量``，在系统变量中添加''CLASSPATH''，值为``algs4.jar``所在目录``D:\Code\jar\algs4.jar``。
 ![19_1_14_1.png](https://i.loli.net/2019/01/14/5c3c310fbcef7.png)
